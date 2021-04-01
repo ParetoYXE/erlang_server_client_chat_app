@@ -1,5 +1,5 @@
-//Liam Iverson
-//BASE SERVER 
+%Liam Iverson
+%BASE SERVER 
 
 
 -module(server).
